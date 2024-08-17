@@ -8,9 +8,14 @@ Este repositório será 'constantemente' 😅 atualizado com os exercícios que 
 
 ## Estrutura do Repositório
 
-Os exercícios estão organizados em pastas correspondentes a cada módulo ou capítulo da literatura:
+Os exercícios estão organizados em pastas correspondentes a cada módulo ou capítulo da literatura referenciada:
+
+### O`Reilly - Learn to Code With JavaScript
 
 - **Capítulo 7:** Going Loopy
+
+*Nota*
+*As respostas dos desafios (challenges.js) serão salvas em cada pasta do seu referido capitulo.*
 
 ## Tecnologias Utilizadas
 
